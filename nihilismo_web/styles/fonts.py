@@ -1,7 +1,7 @@
 from enum import Enum
 
 class Font(Enum):
-    DEFAULT = "BlackNight"
+    DEFAULT = "GregorianFLF"
     LOGO_CANAL = "Pulse_virgin"
     
 class FontWeight(Enum):

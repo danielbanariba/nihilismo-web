@@ -5,7 +5,7 @@ def music() -> rx.Component:
         rx.text("Musica"),
         rx.container(
             rx.image(#Logo imagen
-                
+                src="img/"    
             ),
             rx.image(
                 
